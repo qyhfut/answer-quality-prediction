@@ -1,0 +1,42 @@
+scel_txt.py is to convert the downloaded thesaurus with the suffix scel into txt.
+
+
+step1: doctor_informations(url).py generates the doctor's url.
+
+
+step 2: doctor_informations.py is based on the url of the doctor's homepage extracted above url, 
+and then crawls the complete information on the doctor's homepage.
+
+
+step 3: newtext_xls.py is to convert the question and answer content in the text file to xls format.
+
+
+step 4: xls_to_features.py is used to extract text features of questions and answers.
+
+
+step 5: density_features.py is to calculate the density features of medical professional terms in the doctor's answer.
+
+
+step 6: similarity_features.py is used to calculate similarity features of question and answer.
+
+
+step 7: data_match.py is to match between tables according to 'id'.
+
+
+step 8: one_hot.py is to standardize the information on the doctor's homepage 
+and the features extracted from the doctor's answer text.
+
+
+step 9: fleiss_kappa.py: Consistency test of multiple doctors' ratings.
+
+
+step 10: XGBoost_feature.py is a feature importance display based on KAM theory.
+
+
+step 11: BK-XGBoost.py is the experimental result of all features.
+
+
+step 12: comparison_machine.py is a comparison between a variety of traditional machine learning algorithms.
+
+
+step 13:
