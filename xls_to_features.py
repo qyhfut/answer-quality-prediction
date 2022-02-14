@@ -1,6 +1,6 @@
 #-*- coding = utf-8 -*- 
 #@Time : 2021/3/16 15:29
-#@Author : 张彩云
+#@Author : Yan Qiu
 #@File ：xls_to_features.py
 #@Software: PyCharm
 
