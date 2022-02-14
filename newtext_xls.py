@@ -1,6 +1,6 @@
 #-*- coding = utf-8 -*- 
 #@Time : 2021/1/5 16:06
-#@Author : 张彩云
+#@Author : Yan Qiu
 #@File ：text_cut.py
 #@Software: PyCharm
 
