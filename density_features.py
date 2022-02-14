@@ -1,6 +1,6 @@
 #-*- coding = utf-8 -*- 
 #@Time : 2021/3/18 21:19
-#@Author : 张彩云
+#@Author : Yan Qiu
 #@File ：density.py
 #@Software: PyCharm
 
