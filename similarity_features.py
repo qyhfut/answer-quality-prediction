@@ -1,6 +1,6 @@
 #-*- coding = utf-8 -*-
 #@Time : 2021/1/14 16:07
-#@Author : 张彩云
+#@Author : Yan Qiu
 #@File ：features.py
 #@Software: PyCharm
 
