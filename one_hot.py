@@ -1,6 +1,6 @@
 #-*- coding = utf-8 -*- 
 #@Time : 2021/4/6 8:48
-#@Author : 邱艳
+#@Author : Yan Qiu
 #@File ：one_hot.py
 #@Software: PyCharm
 
